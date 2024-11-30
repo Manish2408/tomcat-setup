@@ -36,7 +36,7 @@ Here’s a step-by-step guide to install **Java 17**, **Tomcat**, configure **Se
 2. **Download Tomcat:**
    Visit the [Tomcat download page](https://tomcat.apache.org/download-10.cgi) to find the latest version. Use `wget` to download:
    ```bash
-   wget https://downloads.apache.org/tomcat/tomcat-10/v10.1.0/bin/apache-tomcat-10.1.0.tar.gz
+   wget https://downloads.apache.org/tomcat/tomcat-10/v10.1.33/bin/apache-tomcat-10.1.33.tar.gz
    ```
 
 3. **Extract and Configure Tomcat:**
