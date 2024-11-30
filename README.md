@@ -1,13 +1,14 @@
 # tomcat-setup
 
-1. Install Java 17
-Update the System:
-
+### 1. Install Java 17
+     Update the System:
+~~~
 sudo apt update
 sudo apt upgrade -y
 Install OpenJDK 17:
 
 sudo apt install openjdk-17-jdk -y
+~~~
 Verify the Installation:
 
 java -version
